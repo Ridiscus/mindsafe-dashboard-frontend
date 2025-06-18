@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/mindsafe-dashboard-frontend/static/css/main.7bb84dfe.css",
+    "main.js": "/mindsafe-dashboard-frontend/static/js/main.b45be83b.js",
+    "static/js/239.626f586f.chunk.js": "/mindsafe-dashboard-frontend/static/js/239.626f586f.chunk.js",
+    "static/js/977.16acd160.chunk.js": "/mindsafe-dashboard-frontend/static/js/977.16acd160.chunk.js",
+    "static/js/455.1afc24d6.chunk.js": "/mindsafe-dashboard-frontend/static/js/455.1afc24d6.chunk.js",
+    "index.html": "/mindsafe-dashboard-frontend/index.html",
+    "main.7bb84dfe.css.map": "/mindsafe-dashboard-frontend/static/css/main.7bb84dfe.css.map",
+    "main.b45be83b.js.map": "/mindsafe-dashboard-frontend/static/js/main.b45be83b.js.map",
+    "239.626f586f.chunk.js.map": "/mindsafe-dashboard-frontend/static/js/239.626f586f.chunk.js.map",
+    "977.16acd160.chunk.js.map": "/mindsafe-dashboard-frontend/static/js/977.16acd160.chunk.js.map",
+    "455.1afc24d6.chunk.js.map": "/mindsafe-dashboard-frontend/static/js/455.1afc24d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bb84dfe.css",
+    "static/js/main.b45be83b.js"
+  ]
+}
