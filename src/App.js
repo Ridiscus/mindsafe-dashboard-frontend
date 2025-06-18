@@ -1,11 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Sidebar from "./components/Sidebar";
+import Home from "./pages/Home"; // <-- page d'accueil
 import Dashboard from "./pages/Dashboard";
 import RiskAnalysis from "./pages/RiskAnalysis";
 import Alerts from "./pages/Alerts";
 import Settings from "./pages/Settings";
-import Home from "./pages/Home"; // <-- page d'accueil
 
 export default function App() {
   return (
