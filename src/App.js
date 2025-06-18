@@ -5,16 +5,16 @@ import Dashboard from "./pages/Dashboard";
 import RiskAnalysis from "./pages/RiskAnalysis";
 import Alerts from "./pages/Alerts";
 import Settings from "./pages/Settings";
-import Home from "./pages/Home"; // <-- Ajout
+import Home from "./pages/Home"; // <-- page d'accueil
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/mindsafe-dashboard-frontend">
       <Routes>
-        {/* La page d'accueil n'a pas de sidebar */}
+        {/* Page d'accueil sans sidebar */}
         <Route path="/" element={<Home />} />
 
-        {/* Les autres pages avec sidebar */}
+        {/* Pages internes avec sidebar */}
         <Route
           path="/dashboard"
           element={
